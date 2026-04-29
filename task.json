@@ -1,0 +1,23 @@
+[
+    {
+        "title": "python",
+        "desc": "oops",
+        "priority": "high",
+        "deadline": "2026-04-29",
+        "done": true
+    },
+    {
+        "title": "python",
+        "desc": "data structure",
+        "priority": "high",
+        "deadline": "2026-04-29",
+        "done": false
+    },
+    {
+        "title": "python",
+        "desc": "exception handling\\",
+        "priority": "medium",
+        "deadline": "2026-04-06",
+        "done": false
+    }
+]
