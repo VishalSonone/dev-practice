@@ -82,6 +82,10 @@ def complete(tasks):
             print("Invalid task number!")
             return
 
+        if tasks[i]["done"]:
+            print("Task already done!")
+            return
+
         tasks[i]["done"] = True
         save(tasks)
         print("Marked as done!")
